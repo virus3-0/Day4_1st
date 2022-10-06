@@ -1,0 +1,9 @@
+.alert.success {
+    padding: 20px;
+    background-color: #04AA6D;
+    color: black;
+    width: 45%;
+    height: 22px;
+    float: right;
+    margin-top: -25%;
+}
